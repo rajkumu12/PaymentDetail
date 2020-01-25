@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTop">12dp</dimen>
+    <dimen name="marginBottom">16dp</dimen>
+    <dimen name="marginLeft">8dp</dimen>
+    <dimen name="marginRight">8dp</dimen>
+    <dimen name="pading">8dp</dimen>
+    <dimen name="heading">24dp</dimen>
+    <dimen name="textSixe">24sp</dimen>
+    <dimen name="hint">14sp</dimen>
+    <dimen name="etbox">30dp</dimen>
+
+</resources>
